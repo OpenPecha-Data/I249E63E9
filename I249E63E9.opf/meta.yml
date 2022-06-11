@@ -1,0 +1,34 @@
+id: I249E63E9
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:27:49.970459'
+last_modified: '2022-06-11T13:27:49.970468'
+parser: null
+source_metadata:
+  title: Aśvaghoṣa Series
+  language: en
+  description: 'Texts by and about the great Indian master Aśvaghoṣa (Tib. rta dbyangs):'
+  volume:
+    f47B8:
+      title: Extremely Concise Dedication
+      base_file: f47B8.txt
+      order: 1
+      parent: Dedication
+    f3056:
+      title: Root Downfalls of the Vajra Vehicle
+      base_file: f3056.txt
+      order: 2
+      parent: Samaya
+    fD921:
+      title: Summary of the Root Downfalls of the Vajra Vehicle
+      base_file: fD921.txt
+      order: 3
+      parent: Samaya
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
